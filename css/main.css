@@ -1,0 +1,131 @@
+/*Mohammad Azaharul Islam
+Project-p4
+IS117-003
+Due Date:12/03/21
+
+*/
+.footer
+{
+    margin-top: 20rem;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #050b21;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 1rem;
+
+}
+
+
+
+
+.h1{
+    text-align: center;
+    font-weight: bold;
+
+}
+
+img{
+    float: left;
+}
+.logoImage{
+ float: right;
+}
+body{
+    background-color: #ffffff;
+    background-image: url("../images/back.jpg");
+
+
+}
+.con{
+    padding: 2em;
+}
+
+td,tr,th{
+    text-align: center;
+    padding:3px;
+    font-size: 14px;
+    border: 2px solid black;
+
+}
+.paragraph{
+    margin-left: 65%;
+    margin-right: 2%;
+}
+/*
+
+ */
+
+.card-header{
+    background-color: #0dcaf0;
+}
+
+.tableT1{
+    margin-left: 5px;
+    margin-right:5px;
+
+
+}
+.tableT2{
+    align-content: center;
+    margin-top: auto;
+}
+.card-img-top{
+    width:100%;
+    height:200px;
+}
+.card_v1{
+
+    position: relative;
+    display:inline-flex;
+    float: left;
+    flex-direction: column;
+    word-wrap: break-word;
+    background-color: #ead6b6;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.25rem;
+    height:440px;
+    margin:1%;
+    width:100%;
+
+
+}
+.homeMargin{
+    margin-left: 4%;
+    margin-right: 4%;
+
+
+}
+.carousel-caption {
+    position: absolute;
+    left: 15%;
+    bottom: 1.25rem;
+    right: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #ec8e12;
+    text-align: center;
+}
+.carouselMargin{
+    margin-top: 1%;
+}
+.col-3 card-body{
+    height:300px;
+}
+.dealimages{
+    margin-top:1% ;
+    margin-bottom: 1%;
+
+}
+.dealMargin{
+    margin-top: 1%;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+.card{
+    min-height: 300px;
+}
